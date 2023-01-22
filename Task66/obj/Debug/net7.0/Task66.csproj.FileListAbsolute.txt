@@ -1,0 +1,15 @@
+E:\Dev (E)\Заказы\Ирина\Task66\bin\Debug\net7.0\Task66.exe
+E:\Dev (E)\Заказы\Ирина\Task66\bin\Debug\net7.0\Task66.deps.json
+E:\Dev (E)\Заказы\Ирина\Task66\bin\Debug\net7.0\Task66.runtimeconfig.json
+E:\Dev (E)\Заказы\Ирина\Task66\bin\Debug\net7.0\Task66.dll
+E:\Dev (E)\Заказы\Ирина\Task66\bin\Debug\net7.0\Task66.pdb
+E:\Dev (E)\Заказы\Ирина\Task66\obj\Debug\net7.0\Task66.csproj.AssemblyReference.cache
+E:\Dev (E)\Заказы\Ирина\Task66\obj\Debug\net7.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev (E)\Заказы\Ирина\Task66\obj\Debug\net7.0\Task66.AssemblyInfoInputs.cache
+E:\Dev (E)\Заказы\Ирина\Task66\obj\Debug\net7.0\Task66.AssemblyInfo.cs
+E:\Dev (E)\Заказы\Ирина\Task66\obj\Debug\net7.0\Task66.csproj.CoreCompileInputs.cache
+E:\Dev (E)\Заказы\Ирина\Task66\obj\Debug\net7.0\Task66.dll
+E:\Dev (E)\Заказы\Ирина\Task66\obj\Debug\net7.0\refint\Task66.dll
+E:\Dev (E)\Заказы\Ирина\Task66\obj\Debug\net7.0\Task66.pdb
+E:\Dev (E)\Заказы\Ирина\Task66\obj\Debug\net7.0\Task66.genruntimeconfig.cache
+E:\Dev (E)\Заказы\Ирина\Task66\obj\Debug\net7.0\ref\Task66.dll

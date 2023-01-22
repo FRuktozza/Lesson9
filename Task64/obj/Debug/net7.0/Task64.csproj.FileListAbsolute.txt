@@ -1,0 +1,15 @@
+E:\Dev (E)\Заказы\Ирина\Task64\bin\Debug\net7.0\Task64.exe
+E:\Dev (E)\Заказы\Ирина\Task64\bin\Debug\net7.0\Task64.deps.json
+E:\Dev (E)\Заказы\Ирина\Task64\bin\Debug\net7.0\Task64.runtimeconfig.json
+E:\Dev (E)\Заказы\Ирина\Task64\bin\Debug\net7.0\Task64.dll
+E:\Dev (E)\Заказы\Ирина\Task64\bin\Debug\net7.0\Task64.pdb
+E:\Dev (E)\Заказы\Ирина\Task64\obj\Debug\net7.0\Task64.csproj.AssemblyReference.cache
+E:\Dev (E)\Заказы\Ирина\Task64\obj\Debug\net7.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev (E)\Заказы\Ирина\Task64\obj\Debug\net7.0\Task64.AssemblyInfoInputs.cache
+E:\Dev (E)\Заказы\Ирина\Task64\obj\Debug\net7.0\Task64.AssemblyInfo.cs
+E:\Dev (E)\Заказы\Ирина\Task64\obj\Debug\net7.0\Task64.csproj.CoreCompileInputs.cache
+E:\Dev (E)\Заказы\Ирина\Task64\obj\Debug\net7.0\Task64.dll
+E:\Dev (E)\Заказы\Ирина\Task64\obj\Debug\net7.0\refint\Task64.dll
+E:\Dev (E)\Заказы\Ирина\Task64\obj\Debug\net7.0\Task64.pdb
+E:\Dev (E)\Заказы\Ирина\Task64\obj\Debug\net7.0\Task64.genruntimeconfig.cache
+E:\Dev (E)\Заказы\Ирина\Task64\obj\Debug\net7.0\ref\Task64.dll
